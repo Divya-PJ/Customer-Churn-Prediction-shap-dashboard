@@ -35,9 +35,9 @@ The project combines predictive analytics, explainable AI, and business intellig
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard Overview.png)
+![Dashboard](Dashboard/Overview.png)
 
-![Dashboard](Customer insights dashboard.png
+![Dashboard](Dashboard/insights_analysis.png)
 
 
 
