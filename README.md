@@ -35,9 +35,9 @@ The project combines predictive analytics, explainable AI, and business intellig
 
 ## Dashboard Preview
 
-![Dashboard](customer churn prediction-SHAP-dashboard/Dashboard Overview.png)
+![Dashboard](Customer-Churn-Prediction-shap-dashboard/Dashboard Overview.png)
 
-![Dashboard](dashboard/Customer insights dashboard.png)
+![Dashboard](Customer-Churn-Prediction-shap-dashboard/Customer insights dashboard.png)
 
 
 
